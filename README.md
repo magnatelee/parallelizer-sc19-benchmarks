@@ -1,4 +1,4 @@
-This repository contains benchmark programs used in the paper "A Constraint-Based Approach to Automatic Data Partitioning for Distributed Memory Execution", SC'19.
+This repository contains benchmark programs used for the paper "A Constraint-Based Approach to Automatic Data Partitioning for Distributed Memory Execution", SC'19.
 
 Each directory has two subdirectories, `Auto` and `Manual`, which store auto-parallelized and hand-parallelized versions, respectively.
 
